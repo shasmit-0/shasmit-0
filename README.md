@@ -52,8 +52,4 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
-## GitHub Stats 📊
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shasmit&theme=flutter&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shasmit&theme=flutter&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
-
-![](https://visitcount.itsvg.in/api?id=Shasmit&label=Profile%20Views&color=0&icon=2&pretty=false)
+![](https://visitcount.itsvg.in/api?id=shasmit-0&label=Profile%20Views&color=0&icon=2&pretty=false)
